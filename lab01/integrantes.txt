@@ -1,0 +1,17 @@
+Léo Hardt.
+00333562.
+
+SOBRE OS PROBLEMAS 1 E 2:
+
+	Existem, no main, duas variáveis chamadas show_step e show_time.
+	Usar uma como falso e outra como verdadeiro dá o resultado de cada exercício.
+
+
+SOBRE O DESAFIO EXTRA:
+	Não recebi o e-mail de confirmação do Online-Judge.
+	Entendo que deveria ter feito antes mas ainda assim gostaria de enviar.
+
+	O método de sorting é bem lento, usei um selection-sort ruim.
+
+	No entanto, acredito ter encontrado o melhor algoritmo para 
+	calcular a 'sortedness' de uma entrada, que é linear.
