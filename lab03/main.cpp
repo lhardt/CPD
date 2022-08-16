@@ -140,7 +140,6 @@ int main(){
   for(auto word : list_of_words){
     std::cout << word;
   }
-  printf("\nn_words: %d\n", list_of_words.size());
 
   return 0;
 }
